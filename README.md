@@ -83,12 +83,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fangcognosphere/fangcognosphere/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fangzhou-11/fangzhou-11/output/snake.svg" alt="Snake animation" />
 
 ###
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=fangcognosphere&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fangcognosphere&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=fangzhou-11&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fangzhou-11&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ###
