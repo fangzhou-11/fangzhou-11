@@ -19,7 +19,6 @@ jobs:
 
       - uses: fangzhou-11/github-activity-readme@master
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   stats:
@@ -45,7 +44,6 @@ jobs:
         git pull
         python3 generate_images.py
       env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         EXCLUDE_FORKED_REPOS: true
 
