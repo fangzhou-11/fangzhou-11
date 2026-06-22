@@ -19,7 +19,7 @@ jobs:
 
       - uses: fangzhou-11/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
   stats:
     needs: activity
