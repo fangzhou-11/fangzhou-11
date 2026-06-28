@@ -89,8 +89,6 @@
 <p align="center">
   <img src="./generated/overview.svg">
   <img src="./generated/languages.svg">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fangzhou-11&theme=default" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fangzhou-11&theme=default" />
 </p>
 
 ###
