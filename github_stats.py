@@ -201,8 +201,8 @@ class Queries(object):
     }}
   }}
 }}
-"""
 
+"""
     @staticmethod
     def contrib_years(username: str) -> str:
         """
