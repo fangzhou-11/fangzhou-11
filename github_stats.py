@@ -459,23 +459,30 @@ Languages:
             return self._total_contributions
 
         self._total_contributions = 0
-        years = (
-            (await self.queries.query(Queries.contrib_years(self.username)))
-            .get("data", {})
-            .get("user", {})
-            .get("contributionsCollection", {})
-            .get("contributionYears", [])
-        )
-        by_year = (
-            (await self.queries.query(Queries.all_contribs(self.username, years)))
-            .get("data", {})
-            .get("user", {})
-            .values()
-        )
-        for year in by_year:
-            self._total_contributions += year.get("contributionCalendar", {}).get(
-                "totalContributions", 0
-            )
+        try:
+            user_data = (
+                (await self.queries.query(Queries.contrib_years(self.username)))
+                .get("data", {})
+                .get("user", {})
+            ) or {}
+            contrib_coll = user_data.get("contributionsCollection") or {}
+            years = contrib_coll.get("contributionYears") or []
+            
+            if years:
+                user_data_all = (
+                    (await self.queries.query(Queries.all_contribs(self.username, years)))
+                    .get("data", {})
+                    .get("user", {})
+                ) or {}
+                by_year = user_data_all.values()
+                for year in by_year:
+                    if isinstance(year, dict):
+                        self._total_contributions += year.get("contributionCalendar", {}).get(
+                            "totalContributions", 0
+                        )
+        except Exception as e:
+            print(f"Error getting total contributions: {e}")
+
         return cast(int, self._total_contributions)
 
     @property
@@ -487,20 +494,26 @@ Languages:
             return self._lines_changed
         additions = 0
         deletions = 0
-        for repo in await self.repos:
-            r = await self.queries.query_rest(f"/repos/{repo}/stats/contributors")
-            for author_obj in r:
-                if not isinstance(author_obj, dict) or not isinstance(
-                    author_obj.get("author", {}), dict
-                ):
+        try:
+            for repo in await self.repos:
+                r = await self.queries.query_rest(f"/repos/{repo}/stats/contributors")
+                if not isinstance(r, list):
                     continue
-                author = author_obj.get("author", {}).get("login", "")
-                if author != self.username:
-                    continue
+                for author_obj in r:
+                    if not isinstance(author_obj, dict) or not isinstance(
+                        author_obj.get("author", {}), dict
+                    ):
+                        continue
+                    author = author_obj.get("author", {}).get("login", "")
+                    if author != self.username:
+                        continue
 
-                for week in author_obj.get("weeks", []):
-                    additions += week.get("a", 0)
-                    deletions += week.get("d", 0)
+                    for week in author_obj.get("weeks", []):
+                        if isinstance(week, dict):
+                            additions += week.get("a", 0)
+                            deletions += week.get("d", 0)
+        except Exception as e:
+            print(f"Error getting lines changed: {e}")
 
         self._lines_changed = (additions, deletions)
         return self._lines_changed
@@ -515,10 +528,16 @@ Languages:
             return self._views
 
         total = 0
-        for repo in await self.repos:
-            r = await self.queries.query_rest(f"/repos/{repo}/traffic/views")
-            for view in r.get("views", []):
-                total += view.get("count", 0)
+        try:
+            for repo in await self.repos:
+                r = await self.queries.query_rest(f"/repos/{repo}/traffic/views")
+                if not isinstance(r, dict):
+                    continue
+                for view in r.get("views", []):
+                    if isinstance(view, dict):
+                        total += view.get("count", 0)
+        except Exception as e:
+            print(f"Error getting page views: {e}")
 
         self._views = total
         return total
