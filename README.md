@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`d566a5b`](https://github.com/fangzhou-11/profile/commit/d566a5bec551872b2761f1805199eba4dcbc396a) to [`main`](https://github.com/fangzhou-11/profile/tree/main) in [`fangzhou-11/profile`](https://github.com/fangzhou-11/profile)
-2. ⭐ Starred [`chloecinders/widget-identity-creator`](https://github.com/chloecinders/widget-identity-creator)
-3. 📦 Pushed [`e7359c0`](https://github.com/fangzhou-11/TBH-Cheat-Table/commit/e7359c0bd57760edac7a68afdbc0a075b78012f7) to [`main`](https://github.com/fangzhou-11/TBH-Cheat-Table/tree/main) in [`fangzhou-11/TBH-Cheat-Table`](https://github.com/fangzhou-11/TBH-Cheat-Table)
-4. 📦 Pushed [`cc1cda9`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/cc1cda98e102840a9eabee8c692f3518e49c2a18) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-5. 📦 Pushed [`01a99a6`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/01a99a6ba64a057b7e3251e2d6681d297c92ff8c) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+1. 📦 Pushed [`09a79a9`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/09a79a9c80b6f1f303a862e79b1a8726ea8b0e98) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+2. 🎉 Merged PR [`#1`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/1) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+3. ℹ️ Assigned PR [`#1`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/1) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+4. ℹ️ Assigned PR [`#1`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/1) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+5. 💪 Opened PR [`#1`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/1) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
 <!--END_SECTION:activity-->
 ###
