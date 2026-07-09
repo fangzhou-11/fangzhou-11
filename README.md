@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`0decf0f`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/0decf0f07315abbe6379ade15c05d1a6b5bed6b9) to [`frontend`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/frontend) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-2. 📦 Pushed [`69f06b3`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/69f06b3aca63435daa764d11f30c2e47ead120ca) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-3. 🎉 Merged PR [`#6`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/6) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-4. 💪 Opened PR [`#6`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/6) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-5. 📦 Pushed [`b70f0f8`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/b70f0f80664246a6ac9c39769b199aa6d1bc1f69) to [`frontend`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/frontend) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+1. 📦 Pushed [`3a53688`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/3a536883936d1966ed42cc42f1f7ce47d866288d) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+2. 🎉 Merged PR [`#7`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/7) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+3. 💪 Opened PR [`#7`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/7) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+4. 📦 Pushed [`50ea699`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/50ea69930a7f4b2691b94926a4420e2f37e9e7ce) to [`frontend`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/frontend) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+5. ⭐ Starred [`DuoXPy/DuoRain`](https://github.com/DuoXPy/DuoRain)
 <!--END_SECTION:activity-->
 ###
