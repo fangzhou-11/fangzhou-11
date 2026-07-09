@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [`#5`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/5) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-2. 📦 Pushed [`4a73fce`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/4a73fce04ecc4d7a7b4917ebe45134a92583457b) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-3. 💪 Opened PR [`#5`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/5) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-4. 🆕 Created branch frontend in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-5. 🎉 Merged PR [`#4`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/4) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+1. 📦 Pushed [`69f06b3`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/69f06b3aca63435daa764d11f30c2e47ead120ca) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+2. 🎉 Merged PR [`#6`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/6) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+3. 💪 Opened PR [`#6`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/6) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+4. 📦 Pushed [`b70f0f8`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/b70f0f80664246a6ac9c39769b199aa6d1bc1f69) to [`frontend`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/frontend) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+5. 🎉 Merged PR [`#5`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/5) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
 <!--END_SECTION:activity-->
 ###
