@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`3a53688`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/3a536883936d1966ed42cc42f1f7ce47d866288d) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-2. 🎉 Merged PR [`#7`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/7) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-3. 💪 Opened PR [`#7`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/7) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-4. 📦 Pushed [`50ea699`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/50ea69930a7f4b2691b94926a4420e2f37e9e7ce) to [`frontend`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/frontend) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-5. ⭐ Starred [`DuoXPy/DuoRain`](https://github.com/DuoXPy/DuoRain)
+1. 📦 Pushed [`98a45c6`](https://github.com/fangzhou-11/Ryzork-mine/commit/98a45c664c40fe9872ecaa6ebb049c34a456ffb3) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+2. 📦 Pushed [`fcaa6c7`](https://github.com/fangzhou-11/Ryzork-mine/commit/fcaa6c72c6818d8308f72d53c6d2de85cdeb52ce) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+3. 📦 Pushed [`3a53688`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/3a536883936d1966ed42cc42f1f7ce47d866288d) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+4. 🎉 Merged PR [`#7`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/7) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+5. 💪 Opened PR [`#7`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/7) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
 <!--END_SECTION:activity-->
 ###
