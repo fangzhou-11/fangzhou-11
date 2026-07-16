@@ -96,9 +96,9 @@
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
 1. ⭐ Starred [`OpenCut-app/OpenCut`](https://github.com/OpenCut-app/OpenCut)
-2. 📦 Pushed [`98a45c6`](https://github.com/fangzhou-11/Ryzork-mine/commit/98a45c664c40fe9872ecaa6ebb049c34a456ffb3) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-3. 📦 Pushed [`fcaa6c7`](https://github.com/fangzhou-11/Ryzork-mine/commit/fcaa6c72c6818d8308f72d53c6d2de85cdeb52ce) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-4. 📦 Pushed [`3a53688`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/3a536883936d1966ed42cc42f1f7ce47d866288d) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-5. 🎉 Merged PR [`#7`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/7) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+2. ⭐ Starred [`LibreDuo/DuoXJS`](https://github.com/LibreDuo/DuoXJS)
+3. ⭐ Starred [`FFmpeg/FFmpeg`](https://github.com/FFmpeg/FFmpeg)
+4. ⭐ Starred [`chloecinders/widget-identity-creator`](https://github.com/chloecinders/widget-identity-creator)
+5. 📦 Pushed [`16daee3`](https://github.com/fangzhou-11/fangzhou-11/commit/16daee3f1d9bd64e82b888dc4fe738b4273db7b9) to [`main`](https://github.com/fangzhou-11/fangzhou-11/tree/main) in [`fangzhou-11/fangzhou-11`](https://github.com/fangzhou-11/fangzhou-11)
 <!--END_SECTION:activity-->
 ###
