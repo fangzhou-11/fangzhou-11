@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`562b97e`](https://github.com/fangzhou-11/discord-quest-bypass/commit/562b97e82dfee8f4ce11a84feb15163331b59e95) to [`main`](https://github.com/fangzhou-11/discord-quest-bypass/tree/main) in [`fangzhou-11/discord-quest-bypass`](https://github.com/fangzhou-11/discord-quest-bypass)
-2. 📦 Pushed [`09301bb`](https://github.com/fangzhou-11/discord-quest-bypass/commit/09301bba9e70cb6b529971f152c45acdf40e6165) to [`main`](https://github.com/fangzhou-11/discord-quest-bypass/tree/main) in [`fangzhou-11/discord-quest-bypass`](https://github.com/fangzhou-11/discord-quest-bypass)
-3. ⭐ Starred [`baidu/Unlimited-OCR`](https://github.com/baidu/Unlimited-OCR)
-4. ⭐ Starred [`babalae/better-genshin-impact`](https://github.com/babalae/better-genshin-impact)
-5. ⭐ Starred [`OpenCut-app/OpenCut`](https://github.com/OpenCut-app/OpenCut)
+1. ⭐ Starred [`undertheseanlp/dictionary`](https://github.com/undertheseanlp/dictionary)
+2. 📦 Pushed [`562b97e`](https://github.com/fangzhou-11/discord-quest-bypass/commit/562b97e82dfee8f4ce11a84feb15163331b59e95) to [`main`](https://github.com/fangzhou-11/discord-quest-bypass/tree/main) in [`fangzhou-11/discord-quest-bypass`](https://github.com/fangzhou-11/discord-quest-bypass)
+3. 📦 Pushed [`09301bb`](https://github.com/fangzhou-11/discord-quest-bypass/commit/09301bba9e70cb6b529971f152c45acdf40e6165) to [`main`](https://github.com/fangzhou-11/discord-quest-bypass/tree/main) in [`fangzhou-11/discord-quest-bypass`](https://github.com/fangzhou-11/discord-quest-bypass)
+4. ⭐ Starred [`baidu/Unlimited-OCR`](https://github.com/baidu/Unlimited-OCR)
+5. ⭐ Starred [`babalae/better-genshin-impact`](https://github.com/babalae/better-genshin-impact)
 <!--END_SECTION:activity-->
 ###
