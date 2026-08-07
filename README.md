@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. ⭐ Starred [`kirodotdev/Kiro`](https://github.com/kirodotdev/Kiro)
-2. ⭐ Starred [`undertheseanlp/dictionary`](https://github.com/undertheseanlp/dictionary)
-3. 📦 Pushed [`562b97e`](https://github.com/fangzhou-11/discord-quest-bypass/commit/562b97e82dfee8f4ce11a84feb15163331b59e95) to [`main`](https://github.com/fangzhou-11/discord-quest-bypass/tree/main) in [`fangzhou-11/discord-quest-bypass`](https://github.com/fangzhou-11/discord-quest-bypass)
-4. 📦 Pushed [`09301bb`](https://github.com/fangzhou-11/discord-quest-bypass/commit/09301bba9e70cb6b529971f152c45acdf40e6165) to [`main`](https://github.com/fangzhou-11/discord-quest-bypass/tree/main) in [`fangzhou-11/discord-quest-bypass`](https://github.com/fangzhou-11/discord-quest-bypass)
-5. ⭐ Starred [`baidu/Unlimited-OCR`](https://github.com/baidu/Unlimited-OCR)
+1. ⭐ Starred [`SkriptLang/Skript`](https://github.com/SkriptLang/Skript)
+2. ⭐ Starred [`kirodotdev/Kiro`](https://github.com/kirodotdev/Kiro)
+3. ⭐ Starred [`undertheseanlp/dictionary`](https://github.com/undertheseanlp/dictionary)
+4. 📦 Pushed [`562b97e`](https://github.com/fangzhou-11/discord-quest-bypass/commit/562b97e82dfee8f4ce11a84feb15163331b59e95) to [`main`](https://github.com/fangzhou-11/discord-quest-bypass/tree/main) in [`fangzhou-11/discord-quest-bypass`](https://github.com/fangzhou-11/discord-quest-bypass)
+5. 📦 Pushed [`09301bb`](https://github.com/fangzhou-11/discord-quest-bypass/commit/09301bba9e70cb6b529971f152c45acdf40e6165) to [`main`](https://github.com/fangzhou-11/discord-quest-bypass/tree/main) in [`fangzhou-11/discord-quest-bypass`](https://github.com/fangzhou-11/discord-quest-bypass)
 <!--END_SECTION:activity-->
 ###
