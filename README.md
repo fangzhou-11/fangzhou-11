@@ -96,9 +96,9 @@
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
 1. ⭐ Starred [`deepseek-ai/deepseek-harness`](https://github.com/deepseek-ai/deepseek-harness)
-2. 📦 Pushed [`4c419ae`](https://github.com/fangzhou-11/Ryzork-mine/commit/4c419aed17120184e94317fe293f1dc8752ee500) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-3. ⭐ Starred [`SkriptLang/Skript`](https://github.com/SkriptLang/Skript)
-4. ⭐ Starred [`kirodotdev/Kiro`](https://github.com/kirodotdev/Kiro)
-5. ⭐ Starred [`undertheseanlp/dictionary`](https://github.com/undertheseanlp/dictionary)
+2. ⭐ Starred [`SkriptLang/Skript`](https://github.com/SkriptLang/Skript)
+3. ⭐ Starred [`kirodotdev/Kiro`](https://github.com/kirodotdev/Kiro)
+4. ⭐ Starred [`undertheseanlp/dictionary`](https://github.com/undertheseanlp/dictionary)
+5. ⭐ Starred [`baidu/Unlimited-OCR`](https://github.com/baidu/Unlimited-OCR)
 <!--END_SECTION:activity-->
 ###
