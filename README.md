@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [`#11`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/11) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-2. 📦 Pushed [`6343445`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/634344566effa9861edb0ceaa95de59341a28052) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-3. 💪 Opened PR [`#11`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/11) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-4. 📦 Pushed [`f381f76`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/f381f76a5a18c8d74b7c4bc29326b233368685f8) to [`frontend`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/frontend) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-5. 📦 Pushed [`095aa97`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/095aa97d32483ffcb5dd979c3030ae4eaa20d74e) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+1. 🆕 Created branch main in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 🎉 Merged PR [`#11`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/11) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+3. 📦 Pushed [`6343445`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/634344566effa9861edb0ceaa95de59341a28052) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+4. 💪 Opened PR [`#11`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/11) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+5. 📦 Pushed [`f381f76`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/f381f76a5a18c8d74b7c4bc29326b233368685f8) to [`frontend`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/frontend) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
 <!--END_SECTION:activity-->
 ###
