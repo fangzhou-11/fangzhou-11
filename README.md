@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🆕 Created branch main in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 🎉 Merged PR [`#11`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/11) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-3. 📦 Pushed [`6343445`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/634344566effa9861edb0ceaa95de59341a28052) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-4. 💪 Opened PR [`#11`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/11) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
-5. 📦 Pushed [`f381f76`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/f381f76a5a18c8d74b7c4bc29326b233368685f8) to [`frontend`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/frontend) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+1. 📦 Pushed [`05f0a50`](https://github.com/fangzhou-11/SuoiNgoc/commit/05f0a501b9bc01d3bee3832157daf39e4f96cffd) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 📦 Pushed [`2467ef9`](https://github.com/fangzhou-11/SuoiNgoc/commit/2467ef96e983e03f8d53a885e0759e9da7ea132b) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 🆕 Created branch main in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 🎉 Merged PR [`#11`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/pull/11) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
+5. 📦 Pushed [`6343445`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/commit/634344566effa9861edb0ceaa95de59341a28052) to [`main`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat/tree/main) in [`fangzhou-11/Suoi-Ngoc-Retreat`](https://github.com/fangzhou-11/Suoi-Ngoc-Retreat)
 <!--END_SECTION:activity-->
 ###
