@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. ⭐ Starred [`KyThuatUAV/ESP32_FC`](https://github.com/KyThuatUAV/ESP32_FC)
-2. 📦 Pushed [`e16ac99`](https://github.com/fangzhou-11/discord_connect/commit/e16ac998fec95a08828f74917206f20b528e7978) to [`main`](https://github.com/fangzhou-11/discord_connect/tree/main) in [`fangzhou-11/discord_connect`](https://github.com/fangzhou-11/discord_connect)
-3. ⭐ Starred [`truanayangi-com/truanayangi`](https://github.com/truanayangi-com/truanayangi)
-4. 📦 Pushed [`51e026c`](https://github.com/fangzhou-11/discord_connect/commit/51e026c8a3d17867fbf8545ff62c3b45927dfab3) to [`main`](https://github.com/fangzhou-11/discord_connect/tree/main) in [`fangzhou-11/discord_connect`](https://github.com/fangzhou-11/discord_connect)
-5. 🆕 Created branch main in [`fangzhou-11/discord_connect`](https://github.com/fangzhou-11/discord_connect)
+1. 📦 Pushed [`421379f`](https://github.com/fangzhou-11/SuoiNgoc/commit/421379fd3511fe864cd0b6c3de0b67845e8c4bd6) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. ⭐ Starred [`KyThuatUAV/ESP32_FC`](https://github.com/KyThuatUAV/ESP32_FC)
+3. 📦 Pushed [`e16ac99`](https://github.com/fangzhou-11/discord_connect/commit/e16ac998fec95a08828f74917206f20b528e7978) to [`main`](https://github.com/fangzhou-11/discord_connect/tree/main) in [`fangzhou-11/discord_connect`](https://github.com/fangzhou-11/discord_connect)
+4. ⭐ Starred [`truanayangi-com/truanayangi`](https://github.com/truanayangi-com/truanayangi)
+5. 📦 Pushed [`51e026c`](https://github.com/fangzhou-11/discord_connect/commit/51e026c8a3d17867fbf8545ff62c3b45927dfab3) to [`main`](https://github.com/fangzhou-11/discord_connect/tree/main) in [`fangzhou-11/discord_connect`](https://github.com/fangzhou-11/discord_connect)
 <!--END_SECTION:activity-->
 ###
