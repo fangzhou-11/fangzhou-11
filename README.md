@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`6f87613`](https://github.com/fangzhou-11/SuoiNgoc/commit/6f876137526b37e660d159223b82b6a147ccbafd) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 📦 Pushed [`99c1ddd`](https://github.com/fangzhou-11/SuoiNgoc/commit/99c1ddd36def136f2d9b332dc14f46c48c700ffa) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 📦 Pushed [`421379f`](https://github.com/fangzhou-11/SuoiNgoc/commit/421379fd3511fe864cd0b6c3de0b67845e8c4bd6) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. ⭐ Starred [`KyThuatUAV/ESP32_FC`](https://github.com/KyThuatUAV/ESP32_FC)
-5. 📦 Pushed [`e16ac99`](https://github.com/fangzhou-11/discord_connect/commit/e16ac998fec95a08828f74917206f20b528e7978) to [`main`](https://github.com/fangzhou-11/discord_connect/tree/main) in [`fangzhou-11/discord_connect`](https://github.com/fangzhou-11/discord_connect)
+1. 📦 Pushed [`6849020`](https://github.com/fangzhou-11/Ryzork-mine/commit/68490203d8e181a2d0d109d5a654fed5f37b2056) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+2. 📦 Pushed [`6f87613`](https://github.com/fangzhou-11/SuoiNgoc/commit/6f876137526b37e660d159223b82b6a147ccbafd) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 📦 Pushed [`99c1ddd`](https://github.com/fangzhou-11/SuoiNgoc/commit/99c1ddd36def136f2d9b332dc14f46c48c700ffa) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 📦 Pushed [`421379f`](https://github.com/fangzhou-11/SuoiNgoc/commit/421379fd3511fe864cd0b6c3de0b67845e8c4bd6) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. ⭐ Starred [`KyThuatUAV/ESP32_FC`](https://github.com/KyThuatUAV/ESP32_FC)
 <!--END_SECTION:activity-->
 ###
