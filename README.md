@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`e204246`](https://github.com/fangzhou-11/discord_connect/commit/e20424630c998bf94c47e3c563bd016af92ce1f2) to [`main`](https://github.com/fangzhou-11/discord_connect/tree/main) in [`fangzhou-11/discord_connect`](https://github.com/fangzhou-11/discord_connect)
-2. 📦 Pushed [`1581fae`](https://github.com/fangzhou-11/profile-tiktok/commit/1581fae5778c02c84ab6c874bef6c3c64414e2e6) to [`main`](https://github.com/fangzhou-11/profile-tiktok/tree/main) in [`fangzhou-11/profile-tiktok`](https://github.com/fangzhou-11/profile-tiktok)
-3. 🆕 Created branch main in [`fangzhou-11/profile-tiktok`](https://github.com/fangzhou-11/profile-tiktok)
-4. 📦 Pushed [`6849020`](https://github.com/fangzhou-11/Ryzork-mine/commit/68490203d8e181a2d0d109d5a654fed5f37b2056) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-5. 📦 Pushed [`6f87613`](https://github.com/fangzhou-11/SuoiNgoc/commit/6f876137526b37e660d159223b82b6a147ccbafd) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 📦 Pushed [`cf4c89b`](https://github.com/fangzhou-11/profile-tiktok/commit/cf4c89b765bcb8bc2698df033b4684c1c296483c) to [`main`](https://github.com/fangzhou-11/profile-tiktok/tree/main) in [`fangzhou-11/profile-tiktok`](https://github.com/fangzhou-11/profile-tiktok)
+2. 📦 Pushed [`e204246`](https://github.com/fangzhou-11/discord_connect/commit/e20424630c998bf94c47e3c563bd016af92ce1f2) to [`main`](https://github.com/fangzhou-11/discord_connect/tree/main) in [`fangzhou-11/discord_connect`](https://github.com/fangzhou-11/discord_connect)
+3. 📦 Pushed [`1581fae`](https://github.com/fangzhou-11/profile-tiktok/commit/1581fae5778c02c84ab6c874bef6c3c64414e2e6) to [`main`](https://github.com/fangzhou-11/profile-tiktok/tree/main) in [`fangzhou-11/profile-tiktok`](https://github.com/fangzhou-11/profile-tiktok)
+4. 🆕 Created branch main in [`fangzhou-11/profile-tiktok`](https://github.com/fangzhou-11/profile-tiktok)
+5. 📦 Pushed [`6849020`](https://github.com/fangzhou-11/Ryzork-mine/commit/68490203d8e181a2d0d109d5a654fed5f37b2056) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
 <!--END_SECTION:activity-->
 ###
