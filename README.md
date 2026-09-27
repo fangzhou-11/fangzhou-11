@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. ⭐ Starred [`madoiscool/LuaTools`](https://github.com/madoiscool/LuaTools)
-2. 📦 Pushed [`0cd958d`](https://github.com/fangzhou-11/profile-tiktok/commit/0cd958d1e9cb5dba1443ef308caf57cf73dfc2b5) to [`main`](https://github.com/fangzhou-11/profile-tiktok/tree/main) in [`fangzhou-11/profile-tiktok`](https://github.com/fangzhou-11/profile-tiktok)
-3. 📦 Pushed [`2f3a9e4`](https://github.com/fangzhou-11/profile-tiktok/commit/2f3a9e48c6ac68eb42bc66d057e2422caac25afd) to [`main`](https://github.com/fangzhou-11/profile-tiktok/tree/main) in [`fangzhou-11/profile-tiktok`](https://github.com/fangzhou-11/profile-tiktok)
-4. 📦 Pushed [`cf4c89b`](https://github.com/fangzhou-11/profile-tiktok/commit/cf4c89b765bcb8bc2698df033b4684c1c296483c) to [`main`](https://github.com/fangzhou-11/profile-tiktok/tree/main) in [`fangzhou-11/profile-tiktok`](https://github.com/fangzhou-11/profile-tiktok)
-5. 📦 Pushed [`e204246`](https://github.com/fangzhou-11/discord_connect/commit/e20424630c998bf94c47e3c563bd016af92ce1f2) to [`main`](https://github.com/fangzhou-11/discord_connect/tree/main) in [`fangzhou-11/discord_connect`](https://github.com/fangzhou-11/discord_connect)
+1. 📦 Pushed [`bb05ef9`](https://github.com/fangzhou-11/profile-tiktok/commit/bb05ef9ac517c9b3f33216abd8611f9e0f8af5d4) to [`main`](https://github.com/fangzhou-11/profile-tiktok/tree/main) in [`fangzhou-11/profile-tiktok`](https://github.com/fangzhou-11/profile-tiktok)
+2. ⭐ Starred [`madoiscool/LuaTools`](https://github.com/madoiscool/LuaTools)
+3. 📦 Pushed [`0cd958d`](https://github.com/fangzhou-11/profile-tiktok/commit/0cd958d1e9cb5dba1443ef308caf57cf73dfc2b5) to [`main`](https://github.com/fangzhou-11/profile-tiktok/tree/main) in [`fangzhou-11/profile-tiktok`](https://github.com/fangzhou-11/profile-tiktok)
+4. 📦 Pushed [`2f3a9e4`](https://github.com/fangzhou-11/profile-tiktok/commit/2f3a9e48c6ac68eb42bc66d057e2422caac25afd) to [`main`](https://github.com/fangzhou-11/profile-tiktok/tree/main) in [`fangzhou-11/profile-tiktok`](https://github.com/fangzhou-11/profile-tiktok)
+5. 📦 Pushed [`cf4c89b`](https://github.com/fangzhou-11/profile-tiktok/commit/cf4c89b765bcb8bc2698df033b4684c1c296483c) to [`main`](https://github.com/fangzhou-11/profile-tiktok/tree/main) in [`fangzhou-11/profile-tiktok`](https://github.com/fangzhou-11/profile-tiktok)
 <!--END_SECTION:activity-->
 ###
