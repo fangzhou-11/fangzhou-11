@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [`#2`](https://github.com/ZhenXiangLen/SuoiNgoc/pull/2) in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
-2. 📦 Pushed [`d4ccc93`](https://github.com/ZhenXiangLen/SuoiNgoc/commit/d4ccc933e0a5a1ef37f7aab434e1bd0dca9bd6e9) to [`main`](https://github.com/ZhenXiangLen/SuoiNgoc/tree/main) in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
-3. 💪 Opened PR [`#2`](https://github.com/ZhenXiangLen/SuoiNgoc/pull/2) in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
-4. ⭐ Starred [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
-5. 📦 Pushed [`f3f9a1a`](https://github.com/ZhenXiangLen/SuoiNgoc/commit/f3f9a1a1cd5ab95167de91c3e109ee5c2c8284c9) to [`main`](https://github.com/ZhenXiangLen/SuoiNgoc/tree/main) in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
+1. 📦 Pushed [`acc7f84`](https://github.com/ZhenXiangLen/SuoiNgoc/commit/acc7f84ff36d14cdf1f0e286118e7ac1f294dfe5) to [`main`](https://github.com/ZhenXiangLen/SuoiNgoc/tree/main) in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
+2. 🎉 Merged PR [`#2`](https://github.com/ZhenXiangLen/SuoiNgoc/pull/2) in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
+3. 📦 Pushed [`d4ccc93`](https://github.com/ZhenXiangLen/SuoiNgoc/commit/d4ccc933e0a5a1ef37f7aab434e1bd0dca9bd6e9) to [`main`](https://github.com/ZhenXiangLen/SuoiNgoc/tree/main) in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
+4. 💪 Opened PR [`#2`](https://github.com/ZhenXiangLen/SuoiNgoc/pull/2) in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
+5. ⭐ Starred [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
