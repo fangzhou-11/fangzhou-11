@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🔗 Added collaborator [`thedtvn`](https://github.com/thedtvn) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 🎉 Merged PR [`#5`](https://github.com/fangzhou-11/SuoiNgoc/pull/5) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 💪 Opened PR [`#5`](https://github.com/fangzhou-11/SuoiNgoc/pull/5) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 🎉 Merged PR [`#4`](https://github.com/fangzhou-11/SuoiNgoc/pull/4) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 💪 Opened PR [`#4`](https://github.com/fangzhou-11/SuoiNgoc/pull/4) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 🆕 Created branch fix/admin-sidebar-scrollbars in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 📦 Pushed [`b18a2b5`](https://github.com/fangzhou-11/SuoiNgoc/commit/b18a2b5f9eb3a4f09bce21cf323eb566f2a5b768) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 🔗 Added collaborator [`thedtvn`](https://github.com/thedtvn) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 🎉 Merged PR [`#5`](https://github.com/fangzhou-11/SuoiNgoc/pull/5) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 💪 Opened PR [`#5`](https://github.com/fangzhou-11/SuoiNgoc/pull/5) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
