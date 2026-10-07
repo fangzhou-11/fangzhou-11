@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🆕 Created branch feat/supabase-fallback in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
-2. 🆕 Created branch feat/admin-article-editor in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
-3. 💪 Opened PR [`#3`](https://github.com/ZhenXiangLen/SuoiNgoc/pull/3) in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
-4. 📦 Pushed [`acc7f84`](https://github.com/ZhenXiangLen/SuoiNgoc/commit/acc7f84ff36d14cdf1f0e286118e7ac1f294dfe5) to [`main`](https://github.com/ZhenXiangLen/SuoiNgoc/tree/main) in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
-5. 🎉 Merged PR [`#2`](https://github.com/ZhenXiangLen/SuoiNgoc/pull/2) in [`ZhenXiangLen/SuoiNgoc`](https://github.com/ZhenXiangLen/SuoiNgoc)
+1. 🔗 Added collaborator [`thedtvn`](https://github.com/thedtvn) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 🎉 Merged PR [`#5`](https://github.com/fangzhou-11/SuoiNgoc/pull/5) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 💪 Opened PR [`#5`](https://github.com/fangzhou-11/SuoiNgoc/pull/5) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 🎉 Merged PR [`#4`](https://github.com/fangzhou-11/SuoiNgoc/pull/4) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 💪 Opened PR [`#4`](https://github.com/fangzhou-11/SuoiNgoc/pull/4) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
