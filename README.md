@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [`#1`](https://github.com/fangzhou-11/Ryzork-mine/pull/1) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-2. 💪 Opened PR [`#1`](https://github.com/fangzhou-11/Ryzork-mine/pull/1) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-3. 📦 Pushed [`e6ed9cb`](https://github.com/fangzhou-11/SuoiNgoc/commit/e6ed9cb903000b081f640d8821314941c27b53c4) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 🔗 Added collaborator [`fangzhou-11`](https://github.com/fangzhou-11) in [`fantasybot-red/SteakBot`](https://github.com/fantasybot-red/SteakBot)
-5. 📦 Pushed [`0fca7b5`](https://github.com/fangzhou-11/Ryzork-mine/commit/0fca7b5080aa2ed7b2300f39f3dd869148316c43) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+1. 📦 Pushed [`939fbe8`](https://github.com/fangzhou-11/Ryzork-mine/commit/939fbe8a3fc289a6cf307eb41ab507317669d2ed) to [`1.3.0`](https://github.com/fangzhou-11/Ryzork-mine/tree/1.3.0) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+2. 📦 Pushed [`9f3b5e4`](https://github.com/fangzhou-11/Ryzork-mine/commit/9f3b5e4fef278772858766a3ef3be0c07259197b) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+3. 📦 Pushed [`0656aa9`](https://github.com/fangzhou-11/Ryzork-mine/commit/0656aa97c41ef7440cba957fe7fc922701d31912) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+4. 🎉 Merged PR [`#1`](https://github.com/fangzhou-11/Ryzork-mine/pull/1) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+5. 💪 Opened PR [`#1`](https://github.com/fangzhou-11/Ryzork-mine/pull/1) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
 <!--END_SECTION:activity-->
 ###
