@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🆕 Created branch feature/rich in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-2. 🆕 Created branch 1.3.0 in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-3. 📦 Pushed [`939fbe8`](https://github.com/fangzhou-11/Ryzork-mine/commit/939fbe8a3fc289a6cf307eb41ab507317669d2ed) to [`1.3.0`](https://github.com/fangzhou-11/Ryzork-mine/tree/1.3.0) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-4. 📦 Pushed [`9f3b5e4`](https://github.com/fangzhou-11/Ryzork-mine/commit/9f3b5e4fef278772858766a3ef3be0c07259197b) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-5. 📦 Pushed [`0656aa9`](https://github.com/fangzhou-11/Ryzork-mine/commit/0656aa97c41ef7440cba957fe7fc922701d31912) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+1. 📦 Pushed [`7b3b829`](https://github.com/fangzhou-11/Ryzork-mine/commit/7b3b829f9f91cea2363c135b5eec094ea481b9c8) to [`feature/rich`](https://github.com/fangzhou-11/Ryzork-mine/tree/feature/rich) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+2. 🆕 Created branch feature/rich in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+3. 🆕 Created branch 1.3.0 in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+4. 📦 Pushed [`939fbe8`](https://github.com/fangzhou-11/Ryzork-mine/commit/939fbe8a3fc289a6cf307eb41ab507317669d2ed) to [`1.3.0`](https://github.com/fangzhou-11/Ryzork-mine/tree/1.3.0) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+5. 📦 Pushed [`9f3b5e4`](https://github.com/fangzhou-11/Ryzork-mine/commit/9f3b5e4fef278772858766a3ef3be0c07259197b) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
 <!--END_SECTION:activity-->
 ###
