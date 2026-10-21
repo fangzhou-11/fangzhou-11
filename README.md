@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`7b3b829`](https://github.com/fangzhou-11/Ryzork-mine/commit/7b3b829f9f91cea2363c135b5eec094ea481b9c8) to [`feature/rich`](https://github.com/fangzhou-11/Ryzork-mine/tree/feature/rich) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-2. 🆕 Created branch feature/rich in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-3. 🆕 Created branch 1.3.0 in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-4. 📦 Pushed [`939fbe8`](https://github.com/fangzhou-11/Ryzork-mine/commit/939fbe8a3fc289a6cf307eb41ab507317669d2ed) to [`1.3.0`](https://github.com/fangzhou-11/Ryzork-mine/tree/1.3.0) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
-5. 📦 Pushed [`9f3b5e4`](https://github.com/fangzhou-11/Ryzork-mine/commit/9f3b5e4fef278772858766a3ef3be0c07259197b) to [`master`](https://github.com/fangzhou-11/Ryzork-mine/tree/master) in [`fangzhou-11/Ryzork-mine`](https://github.com/fangzhou-11/Ryzork-mine)
+1. 📦 Pushed [`f14e8d4`](https://github.com/fangzhou-11/SuoiNgoc/commit/f14e8d4291b94b8fc52ed3ac63af0bd3d6c10237) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 🎉 Merged PR [`#8`](https://github.com/fangzhou-11/SuoiNgoc/pull/8) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 📦 Pushed [`4652b5a`](https://github.com/fangzhou-11/SuoiNgoc/commit/4652b5ab4ce6b4f1df051266c6e13737d8f5e36e) to [`feat/vnpay-sandbox-demo`](https://github.com/fangzhou-11/SuoiNgoc/tree/feat/vnpay-sandbox-demo) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 💪 Opened PR [`#8`](https://github.com/fangzhou-11/SuoiNgoc/pull/8) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 🎉 Merged PR [`#7`](https://github.com/fangzhou-11/SuoiNgoc/pull/7) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
