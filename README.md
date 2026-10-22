@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [`#11`](https://github.com/fangzhou-11/SuoiNgoc/pull/11) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 🎉 Merged PR [`#9`](https://github.com/fangzhou-11/SuoiNgoc/pull/9) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 💪 Opened PR [`#10`](https://github.com/fangzhou-11/SuoiNgoc/pull/10) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 💪 Opened PR [`#9`](https://github.com/fangzhou-11/SuoiNgoc/pull/9) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 📦 Pushed [`f14e8d4`](https://github.com/fangzhou-11/SuoiNgoc/commit/f14e8d4291b94b8fc52ed3ac63af0bd3d6c10237) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 📦 Pushed [`9b48561`](https://github.com/fangzhou-11/SuoiNgoc/commit/9b48561adb83ed5efa45b0162885b7f8d583a203) to [`fix/database-sql-notices`](https://github.com/fangzhou-11/SuoiNgoc/tree/fix/database-sql-notices) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 🆕 Created branch feat/vnpay-sandbox-demo in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 🆕 Created branch fix/database-sql-notices in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 💪 Opened PR [`#13`](https://github.com/fangzhou-11/SuoiNgoc/pull/13) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 🎉 Merged PR [`#10`](https://github.com/fangzhou-11/SuoiNgoc/pull/10) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
