@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`76c27ba`](https://github.com/fangzhou-11/SuoiNgoc/commit/76c27ba3cd76def617c1803e41baea934d214240) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 🎉 Merged PR [`#14`](https://github.com/fangzhou-11/SuoiNgoc/pull/14) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. ℹ️ Assigned PR [`#16`](https://github.com/fangzhou-11/SuoiNgoc/pull/16) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 💪 Opened PR [`#16`](https://github.com/fangzhou-11/SuoiNgoc/pull/16) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 🎉 Merged PR [`#15`](https://github.com/fangzhou-11/SuoiNgoc/pull/15) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 🆕 Created branch feat/customer-registration in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 📦 Pushed [`2fc888f`](https://github.com/fangzhou-11/SuoiNgoc/commit/2fc888fb97f9fe3fdc8f613e58b9bb8f75b93ad2) to [`feat/email-template-management`](https://github.com/fangzhou-11/SuoiNgoc/tree/feat/email-template-management) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 📦 Pushed [`76c27ba`](https://github.com/fangzhou-11/SuoiNgoc/commit/76c27ba3cd76def617c1803e41baea934d214240) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 🎉 Merged PR [`#14`](https://github.com/fangzhou-11/SuoiNgoc/pull/14) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. ℹ️ Assigned PR [`#16`](https://github.com/fangzhou-11/SuoiNgoc/pull/16) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
