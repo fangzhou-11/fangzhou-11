@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [`#12`](https://github.com/fangzhou-11/SuoiNgoc/pull/12) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 🎉 Merged PR [`#13`](https://github.com/fangzhou-11/SuoiNgoc/pull/13) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 📦 Pushed [`30515db`](https://github.com/fangzhou-11/SuoiNgoc/commit/30515db2f884a2d12d5d28edae1187ec54a062b0) to [`fix/remove-better-auth`](https://github.com/fangzhou-11/SuoiNgoc/tree/fix/remove-better-auth) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 📦 Pushed [`9b48561`](https://github.com/fangzhou-11/SuoiNgoc/commit/9b48561adb83ed5efa45b0162885b7f8d583a203) to [`fix/database-sql-notices`](https://github.com/fangzhou-11/SuoiNgoc/tree/fix/database-sql-notices) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 🆕 Created branch feat/vnpay-sandbox-demo in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 📦 Pushed [`c901904`](https://github.com/fangzhou-11/SuoiNgoc/commit/c901904d90aa8d9835466bf886e818faa7f02315) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 🆕 Created branch fix/vnpay-cancel-return-url in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 🎉 Merged PR [`#12`](https://github.com/fangzhou-11/SuoiNgoc/pull/12) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 🎉 Merged PR [`#13`](https://github.com/fangzhou-11/SuoiNgoc/pull/13) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 📦 Pushed [`30515db`](https://github.com/fangzhou-11/SuoiNgoc/commit/30515db2f884a2d12d5d28edae1187ec54a062b0) to [`fix/remove-better-auth`](https://github.com/fangzhou-11/SuoiNgoc/tree/fix/remove-better-auth) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
