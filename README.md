@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🆕 Created branch fix/database-schema-guard in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 🆕 Created branch feat/dashboard-date-range in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 🆕 Created branch feat/reception-guest-dining in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. ℹ️ Assigned PR [`#25`](https://github.com/fangzhou-11/SuoiNgoc/pull/25) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 💪 Opened PR [`#25`](https://github.com/fangzhou-11/SuoiNgoc/pull/25) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 📦 Pushed [`f608fec`](https://github.com/fangzhou-11/SuoiNgoc/commit/f608fec28f0eeb55cfdb0ccebe5e9d55ca684163) to [`fix/auth-single-database`](https://github.com/fangzhou-11/SuoiNgoc/tree/fix/auth-single-database) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 📦 Pushed [`54ba17b`](https://github.com/fangzhou-11/SuoiNgoc/commit/54ba17b9646649a149b2bdc33feb32fbdbac8cfa) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 🎉 Merged PR [`#28`](https://github.com/fangzhou-11/SuoiNgoc/pull/28) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 🎉 Merged PR [`#27`](https://github.com/fangzhou-11/SuoiNgoc/pull/27) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 💪 Opened PR [`#28`](https://github.com/fangzhou-11/SuoiNgoc/pull/28) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
