@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`f608fec`](https://github.com/fangzhou-11/SuoiNgoc/commit/f608fec28f0eeb55cfdb0ccebe5e9d55ca684163) to [`fix/auth-single-database`](https://github.com/fangzhou-11/SuoiNgoc/tree/fix/auth-single-database) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 📦 Pushed [`54ba17b`](https://github.com/fangzhou-11/SuoiNgoc/commit/54ba17b9646649a149b2bdc33feb32fbdbac8cfa) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 🎉 Merged PR [`#28`](https://github.com/fangzhou-11/SuoiNgoc/pull/28) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 🎉 Merged PR [`#27`](https://github.com/fangzhou-11/SuoiNgoc/pull/27) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 💪 Opened PR [`#28`](https://github.com/fangzhou-11/SuoiNgoc/pull/28) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 🆕 Created branch feat/reception-calendar-controls in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 📦 Pushed [`3e6184a`](https://github.com/fangzhou-11/SuoiNgoc/commit/3e6184a7f3600bf64f5301df53d1d8016a6370e1) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 📦 Pushed [`2360e47`](https://github.com/fangzhou-11/SuoiNgoc/commit/2360e47bd413e3f34464587de4f93920f0f9e96f) to [`fix/database-schema-guard`](https://github.com/fangzhou-11/SuoiNgoc/tree/fix/database-schema-guard) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 🆕 Created branch fix/auth-single-database in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 📦 Pushed [`f608fec`](https://github.com/fangzhou-11/SuoiNgoc/commit/f608fec28f0eeb55cfdb0ccebe5e9d55ca684163) to [`fix/auth-single-database`](https://github.com/fangzhou-11/SuoiNgoc/tree/fix/auth-single-database) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
