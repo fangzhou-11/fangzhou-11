@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted branch fix/remove-better-auth in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. ℹ️ Assigned PR [`#17`](https://github.com/fangzhou-11/SuoiNgoc/pull/17) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 💪 Opened PR [`#17`](https://github.com/fangzhou-11/SuoiNgoc/pull/17) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 🎉 Merged PR [`#16`](https://github.com/fangzhou-11/SuoiNgoc/pull/16) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 📦 Pushed [`a10d432`](https://github.com/fangzhou-11/SuoiNgoc/commit/a10d4321935cf615de3429dc89e286fad20fc6ce) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 🎉 Merged PR [`#21`](https://github.com/fangzhou-11/SuoiNgoc/pull/21) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 🗑️ Deleted branch fix/admin-sidebar-scrollbars in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 🗑️ Deleted branch fix/auth-signup-login in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. ℹ️ Assigned PR [`#21`](https://github.com/fangzhou-11/SuoiNgoc/pull/21) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 💪 Opened PR [`#21`](https://github.com/fangzhou-11/SuoiNgoc/pull/21) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
