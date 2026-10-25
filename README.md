@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`5e484af`](https://github.com/fangzhou-11/SuoiNgoc/commit/5e484af91dc306279cdd1f6147b74665f2ca8105) to [`feat/reception-calendar-controls`](https://github.com/fangzhou-11/SuoiNgoc/tree/feat/reception-calendar-controls) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 🆕 Created branch feat/reception-calendar-controls in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 📦 Pushed [`3e6184a`](https://github.com/fangzhou-11/SuoiNgoc/commit/3e6184a7f3600bf64f5301df53d1d8016a6370e1) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 📦 Pushed [`2360e47`](https://github.com/fangzhou-11/SuoiNgoc/commit/2360e47bd413e3f34464587de4f93920f0f9e96f) to [`fix/database-schema-guard`](https://github.com/fangzhou-11/SuoiNgoc/tree/fix/database-schema-guard) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 🆕 Created branch fix/auth-single-database in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 📦 Pushed [`f6ad867`](https://github.com/fangzhou-11/SuoiNgoc/commit/f6ad867993cd072603405039a1e2731cae1c6ba0) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 🆕 Created branch fix/resend-sender-format in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 🆕 Created branch feat/booking-payment-options in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 📦 Pushed [`c3d6a65`](https://github.com/fangzhou-11/SuoiNgoc/commit/c3d6a65fa2e269140211de77ff91d3a6d035e542) to [`fix/reactive-auth-session`](https://github.com/fangzhou-11/SuoiNgoc/tree/fix/reactive-auth-session) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 🆕 Created branch fix/reactive-auth-session in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
