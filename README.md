@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [`#31`](https://github.com/fangzhou-11/SuoiNgoc/pull/31) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 💪 Opened PR [`#30`](https://github.com/fangzhou-11/SuoiNgoc/pull/30) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 🆕 Created branch fix/dashboard-date-filter-room-nights in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 📦 Pushed [`43d44b7`](https://github.com/fangzhou-11/SuoiNgoc/commit/43d44b7524b40b9258a9f2a190c090aec12b0130) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 🗑️ Deleted branch fix/auth-single-database in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 🗑️ Deleted branch feat/booking-payment-options in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 💪 Opened PR [`#32`](https://github.com/fangzhou-11/SuoiNgoc/pull/32) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 🎉 Merged PR [`#31`](https://github.com/fangzhou-11/SuoiNgoc/pull/31) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 📦 Pushed [`7608323`](https://github.com/fangzhou-11/SuoiNgoc/commit/76083235ea67a99cee6fafa5fa418e60d5792161) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 📦 Pushed [`befc31d`](https://github.com/fangzhou-11/SuoiNgoc/commit/befc31d1c0e73bd4b798982c7780c8ce0fe29b40) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
