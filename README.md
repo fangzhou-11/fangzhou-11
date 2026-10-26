@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🆕 Created branch feat/reception-guest-context-menu in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 🗑️ Deleted branch fix/reception-grid-density in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 🗑️ Deleted branch fix/resend-sender-format in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 🗑️ Deleted branch fix/dashboard-date-filter-room-nights in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 🆕 Created branch fix/dashboard-date-filter-room-nights in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 🎉 Merged PR [`#33`](https://github.com/fangzhou-11/SuoiNgoc/pull/33) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 💪 Opened PR [`#33`](https://github.com/fangzhou-11/SuoiNgoc/pull/33) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 🎉 Merged PR [`#32`](https://github.com/fangzhou-11/SuoiNgoc/pull/32) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 🆕 Created branch feat/reception-guest-context-menu in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 🗑️ Deleted branch fix/reception-grid-density in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
