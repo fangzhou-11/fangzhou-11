@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🆕 Created branch fix/invoice-vietnamese-font in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 📦 Pushed [`eea5d77`](https://github.com/fangzhou-11/SuoiNgoc/commit/eea5d773530562a8f867fd9923695de3f80f5cac) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 📦 Pushed [`1b690a8`](https://github.com/fangzhou-11/SuoiNgoc/commit/1b690a88b3288e102e97a54dbe470d4f99ee916c) to [`fix/invoice-vietnamese-font`](https://github.com/fangzhou-11/SuoiNgoc/tree/fix/invoice-vietnamese-font) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 🆕 Created branch fix/reception-grid-density in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 🆕 Created branch fix/users-table-layout in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 🆕 Created branch feat/reception-guest-context-menu in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 🗑️ Deleted branch fix/reception-grid-density in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 🗑️ Deleted branch fix/resend-sender-format in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 🗑️ Deleted branch fix/dashboard-date-filter-room-nights in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 🆕 Created branch fix/dashboard-date-filter-room-nights in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
