@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 🆕 Created branch fix/room-detail-loading in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 🎉 Merged PR [`#40`](https://github.com/fangzhou-11/SuoiNgoc/pull/40) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 💪 Opened PR [`#40`](https://github.com/fangzhou-11/SuoiNgoc/pull/40) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 🎉 Merged PR [`#39`](https://github.com/fangzhou-11/SuoiNgoc/pull/39) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 💪 Opened PR [`#39`](https://github.com/fangzhou-11/SuoiNgoc/pull/39) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 📦 Pushed [`4779740`](https://github.com/fangzhou-11/SuoiNgoc/commit/47797407404506b57f9e4edb295fad1bb1dc8d3a) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 🆕 Created branch fix/room-detail-loading in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 🎉 Merged PR [`#40`](https://github.com/fangzhou-11/SuoiNgoc/pull/40) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 💪 Opened PR [`#40`](https://github.com/fangzhou-11/SuoiNgoc/pull/40) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 🎉 Merged PR [`#39`](https://github.com/fangzhou-11/SuoiNgoc/pull/39) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
