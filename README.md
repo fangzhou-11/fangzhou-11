@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`57a1486`](https://github.com/fangzhou-11/SuoiNgoc/commit/57a1486feb243dc5993ca5dab5b15e0ab69c489b) to [`feat/shared-room-type-images`](https://github.com/fangzhou-11/SuoiNgoc/tree/feat/shared-room-type-images) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 🆕 Created branch feat/shared-room-type-images in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 📦 Pushed [`4779740`](https://github.com/fangzhou-11/SuoiNgoc/commit/47797407404506b57f9e4edb295fad1bb1dc8d3a) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 🆕 Created branch fix/room-detail-loading in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 🎉 Merged PR [`#40`](https://github.com/fangzhou-11/SuoiNgoc/pull/40) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 🆕 Created branch feat/blob-image-uploads in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 📦 Pushed [`57a1486`](https://github.com/fangzhou-11/SuoiNgoc/commit/57a1486feb243dc5993ca5dab5b15e0ab69c489b) to [`feat/shared-room-type-images`](https://github.com/fangzhou-11/SuoiNgoc/tree/feat/shared-room-type-images) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 🆕 Created branch feat/shared-room-type-images in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 📦 Pushed [`4779740`](https://github.com/fangzhou-11/SuoiNgoc/commit/47797407404506b57f9e4edb295fad1bb1dc8d3a) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 🆕 Created branch fix/room-detail-loading in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
