@@ -95,10 +95,10 @@
 
 ## 🕘 Recent activity:
 <!--START_SECTION:activity-->
-1. 📦 Pushed [`8c08610`](https://github.com/fangzhou-11/SuoiNgoc/commit/8c086100b841b078d756bafcbe78365148973d00) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-2. 📦 Pushed [`ced1430`](https://github.com/fangzhou-11/SuoiNgoc/commit/ced1430a32feb45a324acd88e29417163984a910) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-3. 🆕 Created branch chore/update-supabase-database-snapshot in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-4. 🆕 Created branch feat/blob-image-uploads in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
-5. 📦 Pushed [`57a1486`](https://github.com/fangzhou-11/SuoiNgoc/commit/57a1486feb243dc5993ca5dab5b15e0ab69c489b) to [`feat/shared-room-type-images`](https://github.com/fangzhou-11/SuoiNgoc/tree/feat/shared-room-type-images) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+1. 📦 Pushed [`6ace7c6`](https://github.com/fangzhou-11/SuoiNgoc/commit/6ace7c6e24dd15c8cb10fdfefd71c44d6044fc52) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+2. 📦 Pushed [`5aee942`](https://github.com/fangzhou-11/SuoiNgoc/commit/5aee9421e50c648128b9f1e23a64b9e73bb18d45) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+3. 📦 Pushed [`284cad9`](https://github.com/fangzhou-11/SuoiNgoc/commit/284cad9506cc71b3813db5f34ce2f935dfd7b4ce) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+4. 📦 Pushed [`edcc458`](https://github.com/fangzhou-11/SuoiNgoc/commit/edcc458b8f6c8a0a2f4dab4198b51f5c5ce26498) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
+5. 📦 Pushed [`9f4ba04`](https://github.com/fangzhou-11/SuoiNgoc/commit/9f4ba04e581bb3d90a4affb2f60782efd01737ef) to [`main`](https://github.com/fangzhou-11/SuoiNgoc/tree/main) in [`fangzhou-11/SuoiNgoc`](https://github.com/fangzhou-11/SuoiNgoc)
 <!--END_SECTION:activity-->
 ###
